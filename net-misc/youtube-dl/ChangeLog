@@ -1,0 +1,5 @@
+*youtube-dl-2020.05.03 (07 May 2020)
+
+  07 May 2020; Fusey <fusey_jun04@yahoo.co.uk>
+  +files/youtube-dl-thisvid.patch, +metadata.xml, +youtube-dl-2020.05.03.ebuild:
+  net-misc/youtube-dl: Add ThisVid extractor.
