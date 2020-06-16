@@ -1,3 +1,10 @@
+*youtube-dl-99999999 (16 Jun 2020)
+
+  16 Jun 2020; Fusey <fusey_jun04@yahoo.co.uk>
+  +youtube-dl-99999999.ebuild, -Manifest, -files/youtube-dl-thisvid.patch,
+  -youtube-dl-2020.05.03.ebuild:
+  net-misc/youtube-dl: Switch to using live patched repository.
+
 *youtube-dl-2020.05.03 (07 May 2020)
 
   07 May 2020; Fusey <fusey_jun04@yahoo.co.uk>
