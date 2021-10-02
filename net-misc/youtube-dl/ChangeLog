@@ -1,3 +1,7 @@
+  02 Oct 2021; Andrew John Hughes <gnu_andrew@member.fsf.org>
+  youtube-dl-99999999.ebuild:
+  net-misc/youtube-dl: Sync with latest Gentoo repo version and Git repo
+
 *youtube-dl-99999999 (16 Jun 2020)
 
   16 Jun 2020; Fusey <fusey_jun04@yahoo.co.uk>
